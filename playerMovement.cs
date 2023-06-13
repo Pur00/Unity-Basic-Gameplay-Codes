@@ -1,4 +1,6 @@
-﻿using System.Collections;
+// This code is for side scrolling games only.
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
