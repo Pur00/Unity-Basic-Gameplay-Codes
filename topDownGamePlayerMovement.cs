@@ -1,11 +1,11 @@
-// This code is for side scrolling games only.
+// This code is for top-down games only.
 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class playerMovement : MonoBehaviour
+public class topDownGamePlayerMovement : MonoBehaviour
 {
     public int walkingSpeed = 5;
     int runningSpeed, counter = 9999;
