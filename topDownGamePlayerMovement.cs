@@ -1,4 +1,4 @@
-// This code is for top-down games only.
+// This code is for the movement of the player in top-down games.
 
 using System.Collections;
 using System.Collections.Generic;
